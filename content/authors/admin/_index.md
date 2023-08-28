@@ -1,6 +1,7 @@
 ---
-title: Alice Wu 吳恩達
-role: Professor of Artificial Intelligence
+title: Sdar Peng 彭明鑫
+role: Product Designer / Front-End Programmer / 3D Techniian / Three.js / HTML /
+  Blender
 avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
