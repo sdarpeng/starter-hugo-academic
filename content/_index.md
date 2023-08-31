@@ -102,11 +102,11 @@ sections:
           company_url: ''
           company_logo: org-x
           location: Shenzhen
-          date_start: '2012-10-01'
-          date_end: '2014-03-01'
+          date_start: '2004-11-01'
+          date_end: '2008-01-01'
           description: Taught electronic engineering and researched semiconductor physics.
     design:
-      columns: '2'
+      columns: '4'
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
