@@ -78,9 +78,10 @@ sections:
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
+              * Team management
+              * Product Design
+              * Partnership development
+              * Financial: Fund Raising
         - title: CEO
           company: GGtalk
           company_url: ''
