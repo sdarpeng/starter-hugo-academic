@@ -89,22 +89,7 @@ sections:
           date_start: '2014-04-01'
           date_end: '2016-02-01'
           description: Taught electronic engineering and researched semiconductor physics.
-          - title: Senior Product Manager
-          company: Tencent
-          company_url: ''
-          company_logo: org-x
-          location: Shenzhen
-          date_start: '2012-10-01'
-          date_end: '2014-03-01'
-          description: Taught electronic engineering and researched semiconductor physics.
-          - title: Technical Artist
-          company: Netease
-          company_url: ''
-          company_logo: org-x
-          location: Shenzhen
-          date_start: '2004-11-01'
-          date_end: '2008-01-01'
-          description: Taught electronic engineering and researched semiconductor physics.
+
     design:
       columns: '4'
   - block: accomplishments
