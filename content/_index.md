@@ -246,14 +246,13 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        If you have job opportunities or webGL needs, please contact with me.
       # Contact (add or remove contact options as necessary)
       email: sdarpeng@gmail.com
       appointment_url: 'https://calendly.com'
       address:
         city: Shenzhen
         region: Canton
-        postcode: '94305'
         country: China
         country_code: CN
       contact_links:
