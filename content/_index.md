@@ -89,7 +89,14 @@ sections:
           location: Shenzhen
           date_start: '2014-04-01'
           date_end: '2016-02-01'
-          description: Taught electronic engineering and researched semiconductor physics.
+          description: |2-
+               Responsibilities include:
+
+              * Team management
+              * Product Design
+              * Partnership development
+              * Financial: Fund Raising
+
     design:
       columns: '2'
   - block: accomplishments
