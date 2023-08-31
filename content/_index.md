@@ -69,11 +69,11 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: CEO
-          company: GenCoin
+          company: 3DPunk
           company_url: ''
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          location: Shenzhen
+          date_start: '2017-03-08'
           date_end: ''
           description: |2-
               Responsibilities include:
@@ -81,13 +81,13 @@ sections:
               * Analysing
               * Modelling
               * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+        - title: Senior Product Manager
+          company: Tencent
           company_url: ''
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
+          location: Shenzhen
+          date_start: '2012-10-01'
+          date_end: '2014-03-01'
           description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
